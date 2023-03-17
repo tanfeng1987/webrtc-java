@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-17T08:05:47.326Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="qKDPbI_jhEkNT99rxv1V" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-17T08:07:26.134Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="v09_ws1PnJuxw25lYaR_" version="21.0.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -22,8 +22,20 @@
         <mxCell id="QmTHaNAUQb4EER69Bt8--58" value="判断重合度是否大于设置的重合度阈值" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="480" y="860" width="190" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="QmTHaNAUQb4EER69Bt8--62" value="判断重合度是否大于设置的重合度阈值" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1030" width="190" height="90" as="geometry" />
+        <mxCell id="QmTHaNAUQb4EER69Bt8--66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QmTHaNAUQb4EER69Bt8--62" target="QmTHaNAUQb4EER69Bt8--65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QmTHaNAUQb4EER69Bt8--62" value="若重合度大于设定的重合度阈值，则计算缓存中的框内图像和当前框内图像相似度" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1010" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QmTHaNAUQb4EER69Bt8--69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QmTHaNAUQb4EER69Bt8--65" target="QmTHaNAUQb4EER69Bt8--68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QmTHaNAUQb4EER69Bt8--65" value="判断相似度是否大于设置的相似度阈值" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1170" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QmTHaNAUQb4EER69Bt8--68" value="若相似度大于设定的相似度阈值，则抑制告警" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1320" width="190" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
