@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-03-17T07:57:08.092Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ViInwBnKhq3HhXw_ivA9" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-17T07:59:03.629Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="va7VPKl_7kuDd2vDTISb" version="21.0.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QmTHaNAUQb4EER69Bt8--57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QmTHaNAUQb4EER69Bt8--55" target="QmTHaNAUQb4EER69Bt8--56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QmTHaNAUQb4EER69Bt8--55" value="用&lt;span style=&quot;font-size:12.0pt;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:&lt;br/&gt;minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;ai&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;&lt;br/&gt;font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;&lt;br/&gt;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:&lt;br/&gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;分析算法对待解析的视频图片进行分析，得到目标对象的当前目标框和框内图像&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="480" y="540" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QmTHaNAUQb4EER69Bt8--56" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="480" y="700" width="190" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
